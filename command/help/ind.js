@@ -8,10 +8,10 @@ exports.limitend = (pushname) => {
 	return`Maaf ${pushname} limit hari ini telah habis\nlimit di reset setiap jam 24:00`
 }
 exports.noregis = (pushname) =>{
-	return` 🙅‍♀️ Halo ${pushname} lu belum daftar. Ketik .daftar dulu`
+	return`⛔ Halo ${pushname} lu belum daftar. Ketik .daftar dulu`
 	}
 exports.regis = () =>{
-	return` Lu udah daftar 😒`
+	return` Goblok Lu udah daftar !!!`
 	}
 exports.daftar = (sender, pushname, time, serialUser, totalUser) =>{
 	return` *PENDAFTARAN BERHASIL*
@@ -21,31 +21,31 @@ exports.daftar = (sender, pushname, time, serialUser, totalUser) =>{
 • Waktu : ${time}
 • Serial : ${serialUser}
 
-Thanks yak udah daftar, sekarang ketik .menu untuk melihat 
+Thanks tod udah daftar, sekarang ketik .menu untuk melihat 
 fitur bot.
 `
 	}
 exports.owner = (botname) =>{
-	return` 🙅‍♀️ Command khusus owner ${botname}`
+	return` ❌Command owner only ${botname}`
 	}
 exports.admin = (groupName) =>{
-	return`🙅‍♀️ Command khusus admin ${groupName}`
+	return`❌Command admin only ${groupName}`
 	}
 exports.adminB = () =>{
-	return`⚠️ Bot bukan admin grup`
+	return`❌Bot is not admin❌`
 	}
 exports.err = () =>{
-	return`⚠️ Fitur ini sedang eror !`
+	return`❌system error❌`
 	}
 exports.group = () =>{
-	return`🙅‍♀️ Command khusus di dalam group`
+	return`❌Group only❌`
 	}
 
 exports.wait = () =>{
-	return`⏳ Sedang di proses ~`
+	return`Loading... ~`
 	}
 exports.ok = () =>{
-	return` ✅ Oke done ~`
+	return` ✅ Finish ~`
 	}
 exports.welcome = () =>{
 	return`Jangan Lupa Intro Ya~
@@ -53,12 +53,12 @@ exports.welcome = () =>{
 ⌯ָ   ֙Umur :
 ⌯ָ   ֙Kelamin :
 ⌯ָ   ֙Askot :
-╰─ ᝬ _Patuhi Rules Group Ya_  >_<`
+╰─ ᝬ _Baca rules grup jgn buta asw_  >_<`
       }
 exports.leave = () =>{
 	return`
 │
-╰─ ᝬ _Balik Lagi Wajib Donasi Ya_ >_<`
+╰─ ᝬ _jgn Balik Lagi yo asw_ >_<`
 }
 exports.menu = (prefix, salam, pushname) =>{
 	return`Hi ${pushname}, selamat ${salam}
@@ -66,7 +66,7 @@ exports.menu = (prefix, salam, pushname) =>{
 ╭─⬣ *List Menu*
 │ • ${prefix}menu
 │ • ${prefix}help
-│ • ${prefix}haruka
+│ • ${prefix}RzLModz
 │
 ├ *Download*
 │ • ${prefix}play [query]
