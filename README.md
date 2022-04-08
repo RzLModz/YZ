@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/zeeoneofc/Haruka/blob/v1/settings/haruka.jpg" alt="HARUKA BOT" width="200"/>
+<img src="https://github.com/zeeoneofc/Haruka/blob/v1/settings/haruka.jpg" alt="RzLModz" width="200"/>
 
 <p align="center">
     <a href="https://zeeoneofc.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+haruka+bot+🤗"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Jangan+Lupa+Subscribe+YT+RzL+Modz"
             alt="ZeeoneOfc"
         />
     </a>
@@ -12,7 +12,7 @@
 
 </p>
 <p align="center">
-<a href="https://zeeoneofc.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://zeeoneofc.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-RzLModz-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
@@ -72,10 +72,10 @@ You can edit owner and other in `'./settings/config.json'`
 }
 ```
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-- [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
+- [Saweria](https://saweria.co/XModz)
+- [Dana](088274342094)
+- [Ovo](kaga-ada)
+- [Gopay](088274342094)
 
 # Official Group
 - [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
